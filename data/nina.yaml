@@ -1,0 +1,205 @@
+days:
+  - date: "2024-04-30"
+    wakings:
+      - "3:26am": "gabi comforted"
+      - "4:45am": "had to go there a bunch of times"
+      - "5:30am"
+    poops: 
+      - "6:46am"
+      - "5pm"
+    bedtime: "7pm"
+
+  - date: "2024-05-01"
+    wakings:
+      - "5:30am"
+    poops:
+      - "unknown"
+      - "unknown"
+      - "evening"
+    nap:
+      from: "11:30am"
+      to: "?"
+    bedtime: "7pm"
+
+  - date: "2024-05-02"
+    wakings:
+      - "5am"
+    poops:
+      - "10am"
+    nap:
+      from: "10:30am"
+      notes:
+        - "crying after some minutes"
+        - "daddy check-in not helping (wants mommy: mamky? za ňou, tam)"
+        - "mommy check-in seems sucessful"
+        - "seems pretty well-rested after waking up"
+      to: "12:45pm"
+    bedtime: "18:50"
+
+  - date: "2024-05-03"
+    wakings:
+      - "4:50am"
+    nap:
+      from: "10:30am"
+      to: "12:50pm"
+    bedtime: "18:50"
+
+  - date: "2024-05-04"
+    wakings: 
+      - "5:20am"
+    nap:
+      from: "10:15am"
+      to: "11:50am"
+    bedtime: "18:30"
+
+  - date: "2024-05-05"
+    wakings:
+      - "5:15am"
+      - "21:35": "big crying, needs several checkins"
+      - "22:11": "again crying, comforted lying on her back, repeats her toy names: doggie, chameleon, mimi, panny"
+      - "22:34": "again crying"
+      - "22:47": "again, letting her cry"
+      - "23:02": "went in and comforted her on her back for a bit...since then I guess she slept"
+    nap:
+      from: "10:10am"
+      to: "11:55am"
+    bedtime: "18:30"
+
+  - date: "2024-05-06"
+    wakings:
+      - "5:05am": "gabi comforted"
+      - "5:30am"
+    nap:
+      from: "12:05"
+      to: "2:30pm"
+    bedtime: "19:20"
+
+  - date: "2024-05-07"
+    wakings:
+      - "6:20am"
+    nap:
+      from: "12:40"
+      to: "15:15"
+    poops:
+      - "morning"
+    bedtime: "19:55"
+
+  - date: "2024-05-08"
+    wakings:
+      - "5:20am"
+      - "19:31": "gabi comforted, nina was constantly talking; but interestingly: no more crying and probably she's sleeping"
+    nap:
+      from: "11:45am"
+      to: "2:05pm"
+      wakings:
+        - "1:30pm": "crying, but not happy, gabi comforted"
+    poops:
+      - "morning"
+      - "before nap"
+      - "before bath"
+    bedtime: "19:05"
+
+  - date: "2024-05-09"
+    wakings:
+      - "5:20am"
+    nap:
+      from: "10:25am"
+      to: "12:22pm"
+    bedtime: "19:15"
+
+  - date: "2024-05-10"
+    wakings:
+      - "6:20am"
+    nap:
+      from: "12:40pm"
+      to: "14:40"
+    bedtime: "19:30"
+
+  - date: "2024-05-11"
+    wakings:
+      - "6:00am"
+      - "12:00am"
+    nap:
+      from: "11:55am"
+      to: "14:15"
+    poops:
+      - "afternoon"
+      - "before bedtime"
+    bedtime: "19:30"
+
+  - date: "2024-05-12"
+    wakings:
+      - "5:45am"
+    nap:
+      from: "11:15am"
+      to: "12:45pm"
+      note: "not happy after waking up"
+    bedtime: "19:30"
+
+  - date: "2024-05-13"
+    wakings:
+      - "6:10am"
+    nap:
+      from: "12:30pm"
+      to: "2:55pm"
+      note: "very happy after waking up"
+    poops:
+      - "afternoon"
+    bedtime: "19:30"
+
+  - date: "2024-05-14"
+    wakings:
+      - "5:50am"
+      - "18:52": "crying, gabi goes check in"
+    nap:
+      from: "10:35am"
+      to: "12:15pm"
+    bedtime: "18:36"
+
+  - date: "2024-05-15"
+    wakings:
+      - "5:45am"
+    nap:
+      from: "11:33am"
+      to: "14:15"
+      wakings:
+        - "1:20pm": "gabi comforted"
+    poops:
+      - "morning"
+    bedtime: "19:30"
+
+  - date: "2024-05-16"
+    wakings:
+      - "5:45am"
+    nap:
+      from: "11:00am"
+      to: "13:15"
+    bedtime: "19:05"
+
+  - date: "2024-05-17"
+    wakings:
+      - "6:10am"
+    nap:
+      from: "11:30"
+      to: "13:20"
+      notes: "not happy, crying, daddy checkin not helping, wants mommy"
+    bedtime: "18:43"
+
+  - date: "2024-05-18"
+    wakings:
+      - "6:00am"
+    nap:
+      from: "11:45"
+      to: "13:32"
+    bedtime: "19:05"
+
+  - date: "2024-05-19"
+    wakings:
+      - "6:15am"
+    nap:
+      from: "11:30"
+      to: "14:00"
+      wakings:
+        - "12:35pm": "crying, gabi comforted"
+        - "13:40": "crying, fell asleep on gabi"
+    bedtime: "19:00"
