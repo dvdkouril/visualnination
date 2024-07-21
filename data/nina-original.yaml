@@ -1,17 +1,17 @@
 days:
   - date: "2024-04-30"
-    wakeuptime: "5:30am"
     wakings:
       - "3:26am": "gabi comforted"
       - "4:45am": "had to go there a bunch of times"
+      - "5:30am"
     poops: 
       - "6:46am"
       - "5pm"
     bedtime: "7pm"
 
   - date: "2024-05-01"
-    wakeuptime: "5:30am"
     wakings:
+      - "5:30am"
     poops:
       - "unknown"
       - "unknown"
@@ -22,8 +22,8 @@ days:
     bedtime: "7pm"
 
   - date: "2024-05-02"
-    wakeuptime: "5:00am"
     wakings:
+      - "5am"
     poops:
       - "10am"
     nap:
@@ -37,24 +37,24 @@ days:
     bedtime: "18:50"
 
   - date: "2024-05-03"
-    wakeuptime: "4:50am"
     wakings:
+      - "4:50am"
     nap:
       from: "10:30am"
       to: "12:50pm"
     bedtime: "18:50"
 
   - date: "2024-05-04"
-    wakeuptime: "5:20am"
     wakings: 
+      - "5:20am"
     nap:
       from: "10:15am"
       to: "11:50am"
     bedtime: "18:30"
 
   - date: "2024-05-05"
-    wakeuptime: "5:15am"
     wakings:
+      - "5:15am"
       - "21:35": "big crying, needs several checkins"
       - "22:11": "again crying, comforted lying on her back, repeats her toy names: doggie, chameleon, mimi, panny"
       - "22:34": "again crying"
@@ -66,17 +66,17 @@ days:
     bedtime: "18:30"
 
   - date: "2024-05-06"
-    wakeuptime: "5:30am"
     wakings:
       - "5:05am": "gabi comforted"
+      - "5:30am"
     nap:
       from: "12:05"
       to: "2:30pm"
     bedtime: "19:20"
 
   - date: "2024-05-07"
-    wakeuptime: "6:20am"
     wakings:
+      - "6:20am"
     nap:
       from: "12:40"
       to: "15:15"
@@ -85,8 +85,8 @@ days:
     bedtime: "19:55"
 
   - date: "2024-05-08"
-    wakeuptime: "5:20am"
     wakings:
+      - "5:20am"
       - "19:31": "gabi comforted, nina was constantly talking; but interestingly: no more crying and probably she's sleeping"
     nap:
       from: "11:45am"
@@ -100,24 +100,24 @@ days:
     bedtime: "19:05"
 
   - date: "2024-05-09"
-    wakeuptime: "5:20am"
     wakings:
+      - "5:20am"
     nap:
       from: "10:25am"
       to: "12:22pm"
     bedtime: "19:15"
 
   - date: "2024-05-10"
-    wakeuptime: "6:20am"
     wakings:
+      - "6:20am"
     nap:
       from: "12:40pm"
       to: "14:40"
     bedtime: "19:30"
 
   - date: "2024-05-11"
-    wakeuptime: "6:00am"
     wakings:
+      - "6:00am"
       - "12:00am"
     nap:
       from: "11:55am"
@@ -128,8 +128,8 @@ days:
     bedtime: "19:30"
 
   - date: "2024-05-12"
-    wakeuptime: "5:45am"
     wakings:
+      - "5:45am"
     nap:
       from: "11:15am"
       to: "12:45pm"
@@ -137,8 +137,8 @@ days:
     bedtime: "19:30"
 
   - date: "2024-05-13"
-    wakeuptime: "6:10am"
     wakings:
+      - "6:10am"
     nap:
       from: "12:30pm"
       to: "2:55pm"
@@ -148,8 +148,8 @@ days:
     bedtime: "19:30"
 
   - date: "2024-05-14"
-    wakeuptime: "5:50am"
     wakings:
+      - "5:50am"
       - "18:52": "crying, gabi goes check in"
     nap:
       from: "10:35am"
@@ -157,8 +157,8 @@ days:
     bedtime: "18:36"
 
   - date: "2024-05-15"
-    wakeuptime: "5:45am"
     wakings:
+      - "5:45am"
     nap:
       from: "11:33am"
       to: "14:15"
@@ -169,16 +169,16 @@ days:
     bedtime: "19:30"
 
   - date: "2024-05-16"
-    wakeuptime: "5:45am"
     wakings:
+      - "5:45am"
     nap:
       from: "11:00am"
       to: "13:15"
     bedtime: "19:05"
 
   - date: "2024-05-17"
-    wakeuptime: "6:10am"
     wakings:
+      - "6:10am"
     nap:
       from: "11:30"
       to: "13:20"
@@ -186,16 +186,16 @@ days:
     bedtime: "18:43"
 
   - date: "2024-05-18"
-    wakeuptime: "6:00am"
     wakings:
+      - "6:00am"
     nap:
       from: "11:45"
       to: "13:32"
     bedtime: "19:05"
 
   - date: "2024-05-19"
-    wakeuptime: "6:15am"
     wakings:
+      - "6:15am"
     nap:
       from: "11:30"
       to: "14:00"
