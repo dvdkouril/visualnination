@@ -55,11 +55,11 @@ days:
   - date: "2024-05-05"
     wakeuptime: "5:15am"
     wakings:
-      - "21:35": "big crying, needs several checkins"
-      - "22:11": "again crying, comforted lying on her back, repeats her toy names: doggie, chameleon, mimi, panny"
-      - "22:34": "again crying"
-      - "22:47": "again, letting her cry"
-      - "23:02": "went in and comforted her on her back for a bit...since then I guess she slept"
+      - "9:35pm": "big crying, needs several checkins"
+      - "10:11pm": "again crying, comforted lying on her back, repeats her toy names: doggie, chameleon, mimi, panny"
+      - "10:34pm": "again crying"
+      - "10:47pm": "again, letting her cry"
+      - "11:02pm": "went in and comforted her on her back for a bit...since then I guess she slept"
     nap:
       from: "10:10am"
       to: "11:55am"
@@ -87,7 +87,7 @@ days:
   - date: "2024-05-08"
     wakeuptime: "5:20am"
     wakings:
-      - "19:31": "gabi comforted, nina was constantly talking; but interestingly: no more crying and probably she's sleeping"
+      - "7:31pm": "gabi comforted, nina was constantly talking; but interestingly: no more crying and probably she's sleeping"
     nap:
       from: "11:45am"
       to: "2:05pm"
@@ -150,7 +150,7 @@ days:
   - date: "2024-05-14"
     wakeuptime: "5:50am"
     wakings:
-      - "18:52": "crying, gabi goes check in"
+      - "6:52pm": "crying, gabi goes check in"
     nap:
       from: "10:35am"
       to: "12:15pm"
@@ -217,7 +217,7 @@ days:
     wakeuptime: "6:45am"
     wakings:
     nap:
-      from: "12:15am"
+      from: "12:15pm"
       to: "2:05pm"
       wakings:
     bedtime: "7:05pm"
@@ -286,7 +286,7 @@ days:
     bedtime: "6:35pm"
 
   - date: "2024-05-29"
-    wakeuptime: "6:30"
+    wakeuptime: "6:30am"
     wakings:
     nap:
       from: "12:20"
