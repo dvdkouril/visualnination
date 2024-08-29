@@ -7,7 +7,7 @@ days:
     poops: 
       - "6:46am"
       - "5pm"
-    bedtime: "7pm"
+    bedtime: "7:00pm"
 
   - date: "2024-05-01"
     wakeuptime: "5:30am"
@@ -19,7 +19,7 @@ days:
     nap:
       from: "11:30am"
       to: "?"
-    bedtime: "7pm"
+    bedtime: "7:00pm"
 
   - date: "2024-05-02"
     wakeuptime: "5:00am"
@@ -34,7 +34,7 @@ days:
         - "mommy check-in seems sucessful"
         - "seems pretty well-rested after waking up"
       to: "12:45pm"
-    bedtime: "18:50"
+    bedtime: "6:50pm"
 
   - date: "2024-05-03"
     wakeuptime: "4:50am"
@@ -42,7 +42,7 @@ days:
     nap:
       from: "10:30am"
       to: "12:50pm"
-    bedtime: "18:50"
+    bedtime: "6:50pm"
 
   - date: "2024-05-04"
     wakeuptime: "5:20am"
@@ -50,7 +50,7 @@ days:
     nap:
       from: "10:15am"
       to: "11:50am"
-    bedtime: "18:30"
+    bedtime: "6:30pm"
 
   - date: "2024-05-05"
     wakeuptime: "5:15am"
@@ -63,7 +63,7 @@ days:
     nap:
       from: "10:10am"
       to: "11:55am"
-    bedtime: "18:30"
+    bedtime: "6:30pm"
 
   - date: "2024-05-06"
     wakeuptime: "5:30am"
@@ -72,7 +72,7 @@ days:
     nap:
       from: "12:05"
       to: "2:30pm"
-    bedtime: "19:20"
+    bedtime: "7:20pm"
 
   - date: "2024-05-07"
     wakeuptime: "6:20am"
@@ -82,7 +82,7 @@ days:
       to: "15:15"
     poops:
       - "morning"
-    bedtime: "19:55"
+    bedtime: "7:55pm"
 
   - date: "2024-05-08"
     wakeuptime: "5:20am"
@@ -97,7 +97,7 @@ days:
       - "morning"
       - "before nap"
       - "before bath"
-    bedtime: "19:05"
+    bedtime: "7:05pm"
 
   - date: "2024-05-09"
     wakeuptime: "5:20am"
@@ -105,7 +105,7 @@ days:
     nap:
       from: "10:25am"
       to: "12:22pm"
-    bedtime: "19:15"
+    bedtime: "7:15pm"
 
   - date: "2024-05-10"
     wakeuptime: "6:20am"
@@ -113,7 +113,7 @@ days:
     nap:
       from: "12:40pm"
       to: "14:40"
-    bedtime: "19:30"
+    bedtime: "7:30pm"
 
   - date: "2024-05-11"
     wakeuptime: "6:00am"
@@ -125,7 +125,7 @@ days:
     poops:
       - "afternoon"
       - "before bedtime"
-    bedtime: "19:30"
+    bedtime: "7:30pm"
 
   - date: "2024-05-12"
     wakeuptime: "5:45am"
@@ -134,7 +134,7 @@ days:
       from: "11:15am"
       to: "12:45pm"
       note: "not happy after waking up"
-    bedtime: "19:30"
+    bedtime: "7:30pm"
 
   - date: "2024-05-13"
     wakeuptime: "6:10am"
@@ -145,7 +145,7 @@ days:
       note: "very happy after waking up"
     poops:
       - "afternoon"
-    bedtime: "19:30"
+    bedtime: "7:30pm"
 
   - date: "2024-05-14"
     wakeuptime: "5:50am"
@@ -154,7 +154,7 @@ days:
     nap:
       from: "10:35am"
       to: "12:15pm"
-    bedtime: "18:36"
+    bedtime: "6:36pm"
 
   - date: "2024-05-15"
     wakeuptime: "5:45am"
@@ -166,7 +166,7 @@ days:
         - "1:20pm": "gabi comforted"
     poops:
       - "morning"
-    bedtime: "19:30"
+    bedtime: "7:30pm"
 
   - date: "2024-05-16"
     wakeuptime: "5:45am"
@@ -174,7 +174,7 @@ days:
     nap:
       from: "11:00am"
       to: "13:15"
-    bedtime: "19:05"
+    bedtime: "7:05pm"
 
   - date: "2024-05-17"
     wakeuptime: "6:10am"
@@ -183,7 +183,7 @@ days:
       from: "11:30"
       to: "13:20"
       notes: "not happy, crying, daddy checkin not helping, wants mommy"
-    bedtime: "18:43"
+    bedtime: "6:43pm"
 
   - date: "2024-05-18"
     wakeuptime: "6:00am"
@@ -191,7 +191,7 @@ days:
     nap:
       from: "11:45"
       to: "13:32"
-    bedtime: "19:05"
+    bedtime: "7:05pm"
 
   - date: "2024-05-19"
     wakeuptime: "6:15am"
@@ -202,4 +202,4 @@ days:
       wakings:
         - "12:35pm": "crying, gabi comforted"
         - "13:40": "crying, fell asleep on gabi"
-    bedtime: "19:00"
+    bedtime: "7:00pm"
