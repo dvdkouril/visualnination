@@ -13,6 +13,9 @@ Convert the `nina.yaml` file to JSON:
 ```
 deno task convert
 ```
+Why? I found YAML to be much easier to write manually than JSON. ObservableHQ
+doesn't support loading YAML files directly, which is why I use deno to convert
+from YAML to JSON. Also, I plan to do much more processing on the deno side.
 
 ## plan
 
