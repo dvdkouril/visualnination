@@ -118,7 +118,7 @@ days:
   - date: "2024-05-11"
     wakeuptime: "6:00am"
     wakings:
-      - "12:00am"
+      - "12:00am": ""
     nap:
       from: "11:55am"
       to: "14:15"
