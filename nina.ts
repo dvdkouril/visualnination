@@ -15,4 +15,12 @@ const m = tdy.getMonth() + 1;
 const y = tdy.getFullYear();
 const tdyStamp = `${y}-${m}-${d}`;
 const ninaDataJson = JSON.stringify(ninaData);
+
+try {
+	await Deno.mkdir("data/processed");
+} catch (err) {
+	if (!(err instanceof Deno.errors.AlreadyExists)) {
+		throw err;
+	}
+}
 await Deno.writeTextFile(`data/processed/nina-${tdyStamp}.json`, ninaDataJson);
