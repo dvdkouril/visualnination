@@ -3,7 +3,8 @@
   "packages": {
     "specifiers": {
       "jsr:@std/datetime@^0.224.0": "jsr:@std/datetime@0.224.0",
-      "jsr:@std/yaml": "jsr:@std/yaml@0.224.0"
+      "jsr:@std/yaml": "jsr:@std/yaml@0.224.0",
+      "npm:@js-temporal/polyfill@~0.4.4": "npm:@js-temporal/polyfill@0.4.4"
     },
     "jsr": {
       "@std/datetime@0.224.0": {
@@ -12,12 +13,30 @@
       "@std/yaml@0.224.0": {
         "integrity": "9bd99c6beb4d2db98de81c50853f15e68d4c95f38d737934b0e909bbeeff2b6d"
       }
+    },
+    "npm": {
+      "@js-temporal/polyfill@0.4.4": {
+        "integrity": "sha512-2X6bvghJ/JAoZO52lbgyAPFj8uCflhTo2g7nkFzEQdXd/D8rEeD4HtmTEpmtGCva260fcd66YNXBOYdnmHqSOg==",
+        "dependencies": {
+          "jsbi": "jsbi@4.3.0",
+          "tslib": "tslib@2.6.3"
+        }
+      },
+      "jsbi@4.3.0": {
+        "integrity": "sha512-SnZNcinB4RIcnEyZqFPdGPVgrg2AcnykiBy0sHVJQKHYeaLUvi3Exj+iaPpLnFVkDPZIV4U0yvgC9/R4uEAZ9g==",
+        "dependencies": {}
+      },
+      "tslib@2.6.3": {
+        "integrity": "sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==",
+        "dependencies": {}
+      }
     }
   },
   "remote": {},
   "workspace": {
     "dependencies": [
-      "jsr:@std/datetime@^0.224.0"
+      "jsr:@std/datetime@^0.224.0",
+      "npm:@js-temporal/polyfill@~0.4.4"
     ]
   }
 }

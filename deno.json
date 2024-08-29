@@ -3,6 +3,7 @@
 		"convert": "deno run --allow-read --allow-write nina.ts"
 	},
 	"imports": {
+		"@js-temporal/polyfill": "npm:@js-temporal/polyfill@~0.4.4",
 		"@std/datetime": "jsr:@std/datetime@^0.224.0"
 	}
 }
