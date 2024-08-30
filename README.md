@@ -17,9 +17,6 @@ Why? I found YAML to be much easier to write manually than JSON. ObservableHQ
 doesn't support loading YAML files directly, which is why I use deno to convert
 from YAML to JSON. Also, I plan to do much more processing on the deno side.
 
-## plan
-
-I want to make an app that would allow us to interactively browser through all
-the photos, diary logs, and data that we collected with or about Nina.
-
-Plan is to make that semi-public, so that grandparents can browser through too.
+## github actions
+The actions workflow runs the `convert` script and copies the .json file to
+`data/nina.json`
