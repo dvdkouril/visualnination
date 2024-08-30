@@ -4,18 +4,11 @@ days:
     wakings:
       - "3:26am"
       - "4:45am"
-    poops: 
-      - "6:46am"
-      - "5pm"
     bedtime: "7:00pm"
 
   - date: "2024-05-01"
     wakeuptime: "5:30am"
     wakings:
-    poops:
-      - "unknown"
-      - "unknown"
-      - "evening"
     nap:
       from: "11:30am"
       to: "?"
@@ -24,8 +17,6 @@ days:
   - date: "2024-05-02"
     wakeuptime: "5:00am"
     wakings:
-    poops:
-      - "10am"
     nap:
       from: "10:30am"
       to: "12:45pm"
@@ -75,23 +66,16 @@ days:
     nap:
       from: "12:40"
       to: "15:15"
-    poops:
-      - "morning"
     bedtime: "7:55pm"
 
   - date: "2024-05-08"
     wakeuptime: "5:20am"
     wakings:
       - "7:31pm"
+      - "1:30pm"
     nap:
       from: "11:45am"
       to: "2:05pm"
-      wakings:
-        - "1:30pm"
-    poops:
-      - "morning"
-      - "before nap"
-      - "before bath"
     bedtime: "7:05pm"
 
   - date: "2024-05-09"
@@ -117,9 +101,6 @@ days:
     nap:
       from: "11:55am"
       to: "14:15"
-    poops:
-      - "afternoon"
-      - "before bedtime"
     bedtime: "7:30pm"
 
   - date: "2024-05-12"
@@ -138,8 +119,6 @@ days:
       from: "12:30pm"
       to: "2:55pm"
       note: "very happy after waking up"
-    poops:
-      - "afternoon"
     bedtime: "7:30pm"
 
   - date: "2024-05-14"
@@ -154,13 +133,10 @@ days:
   - date: "2024-05-15"
     wakeuptime: "5:45am"
     wakings:
+      - "1:20pm"
     nap:
       from: "11:33am"
       to: "14:15"
-      wakings:
-        - "1:20pm"
-    poops:
-      - "morning"
     bedtime: "7:30pm"
 
   - date: "2024-05-16"
@@ -191,12 +167,11 @@ days:
   - date: "2024-05-19"
     wakeuptime: "6:15am"
     wakings:
+      - "12:35pm"
+      - "13:40"
     nap:
       from: "11:30"
       to: "14:00"
-      wakings:
-        - "12:35pm"
-        - "13:40"
     bedtime: "7:00pm"
 
   - date: "2024-05-20"
@@ -205,7 +180,6 @@ days:
     nap:
       from: "12:30"
       to: "14:16"
-      wakings:
     bedtime: "7:05pm"
 
   - date: "2024-05-21"
@@ -214,7 +188,6 @@ days:
     nap:
       from: "12:15pm"
       to: "2:05pm"
-      wakings:
     bedtime: "7:05pm"
 
   - date: "2024-05-22"
@@ -223,7 +196,6 @@ days:
     nap:
       from: "11:15am"
       to: "1:08pm"
-      wakings:
     bedtime: "7:10pm"
 
   - date: "2024-05-23"
@@ -232,7 +204,6 @@ days:
     nap:
       from: "12:00"
       to: "14:30"
-      wakings:
     bedtime: "7:15pm"
 
   - date: "2024-05-24"
@@ -241,7 +212,6 @@ days:
     nap:
       from: "10:50"
       to: "12:35"
-      wakings:
     bedtime: "6:15pm"
 
   - date: "2024-05-25"
@@ -250,7 +220,6 @@ days:
     nap:
       from: "12:10"
       to: "13:45"
-      wakings:
     bedtime: "6:50pm"
 
   - date: "2024-05-26"
@@ -259,7 +228,6 @@ days:
     nap:
       from: "11:30"
       to: "14:15"
-      wakings:
     bedtime: "6:38pm"
 
   - date: "2024-05-27"
@@ -268,7 +236,6 @@ days:
     nap:
       from: "11:35"
       to: "14:30"
-      wakings:
     bedtime: "7:00pm"
 
   - date: "2024-05-28"
@@ -277,7 +244,6 @@ days:
     nap:
       from: "11:50"
       to: "13:55"
-      wakings:
     bedtime: "6:35pm"
 
   - date: "2024-05-29"
@@ -286,7 +252,6 @@ days:
     nap:
       from: "12:20"
       to: "14:30"
-      wakings:
     bedtime: "6:55pm"
 
   - date: "2024-05-30"
@@ -295,7 +260,6 @@ days:
     nap:
       from: "11:00"
       to: "13:50"
-      wakings:
     bedtime: "6:40pm"
 
   - date: "2024-05-31"
@@ -304,7 +268,6 @@ days:
     nap:
       from: "11:45"
       to: "13:05"
-      wakings:
     bedtime: "6:20pm"
 
   - date: "2024-06-01"
@@ -313,7 +276,6 @@ days:
     nap:
       from: "10:45"
       to: "13:00"
-      wakings:
     bedtime: "7:00pm"
 
   - date: "2024-06-02"
@@ -322,7 +284,6 @@ days:
     nap:
       from: "11:07"
       to: "13:19"
-      wakings:
     bedtime: "7:06pm"
 
   - date: "2024-06-03"
@@ -331,7 +292,6 @@ days:
     nap:
       from: "12:24"
       to: "15:00"
-      wakings:
     bedtime: "8:05pm"
 
   - date: "2024-06-04"
@@ -340,7 +300,6 @@ days:
     nap:
       from: "11:30"
       to: "13:30"
-      wakings:
     bedtime: "6:45pm"
 
   - date: "2024-06-05"
@@ -349,7 +308,6 @@ days:
     nap:
       from: "11:00"
       to: "14:00"
-      wakings:
     bedtime: "6:30pm"
 
   - date: "2024-06-06"
@@ -358,7 +316,6 @@ days:
     nap:
       from: "10:12"
       to: "12:25"
-      wakings:
     bedtime: "6:16pm"
 
   - date: "2024-06-07"
@@ -367,7 +324,6 @@ days:
     nap:
       from: "10:40"
       to: "13:45"
-      wakings:
     bedtime: "6:43pm"
 
   - date: "2024-06-08"
@@ -376,7 +332,6 @@ days:
     nap:
       from: "11:46"
       to: "14:20"
-      wakings:
     bedtime: "6:51pm"
 
   - date: "2024-06-09"
@@ -385,7 +340,6 @@ days:
     nap:
       from: "10:43"
       to: "13:00"
-      wakings:
     bedtime: "6:32pm"
 
   - date: "2024-06-10"
@@ -394,7 +348,6 @@ days:
     nap:
       from: "12:20"
       to: ""
-      wakings:
     bedtime: "6:12pm"
 
   - date: "2024-06-11"
@@ -403,7 +356,6 @@ days:
     nap:
       from: "11:30"
       to: "13:05"
-      wakings:
     bedtime: "6:55pm"
 
   - date: "2024-06-12"
@@ -412,7 +364,6 @@ days:
     nap:
       from: "12:20"
       to: "13:45"
-      wakings:
     bedtime: "6:50pm"
 
   - date: "2024-06-13"
@@ -421,7 +372,6 @@ days:
     nap:
       from: "11:45"
       to: "14:20"
-      wakings:
     bedtime: "6:40pm"
 
   - date: "2024-06-16"
@@ -430,7 +380,6 @@ days:
     nap:
       from: "15:15"
       to: "17:00"
-      wakings:
     bedtime: "9:15pm"
 
   - date: "2024-06-17"
@@ -439,7 +388,6 @@ days:
     nap:
       from: ""
       to: ""
-      wakings:
     bedtime: "9:05pm"
 
   - date: "2024-06-18"
@@ -448,7 +396,6 @@ days:
     nap:
       from: "11:15"
       to: "14:20"
-      wakings:
     bedtime: "6:55pm"
 
   - date: "2024-06-19"
@@ -457,7 +404,6 @@ days:
     nap:
       from: "11:35"
       to: "13:49"
-      wakings:
     bedtime: "7:00pm"
 
   - date: "2024-06-20"
@@ -466,7 +412,6 @@ days:
     nap:
       from: "10:50"
       to: "12:40"
-      wakings:
     bedtime: "6:20pm"
 
   - date: "2024-06-23"
@@ -475,7 +420,6 @@ days:
     nap:
       from: "10:35"
       to: "12:47"
-      wakings:
     bedtime: "6:20pm"
 
   - date: "2024-06-24"
@@ -484,7 +428,6 @@ days:
     nap:
       from: "10:35"
       to: "13:20"
-      wakings:
     bedtime: "6:20pm"
 
   - date: "2024-06-25"
@@ -493,7 +436,6 @@ days:
     nap:
       from: "10:45"
       to: "12:50"
-      wakings:
     bedtime: "5:35pm"
 
   - date: "2024-06-30"
@@ -502,7 +444,6 @@ days:
     nap:
       from: ""
       to: ""
-      wakings:
     bedtime: "5:20pm"
 
   - date: "2024-07-01"
@@ -511,7 +452,6 @@ days:
     nap:
       from: "10:18"
       to: "11:55"
-      wakings:
     bedtime: "5:45pm"
 
   - date: "2024-07-02"
@@ -520,7 +460,6 @@ days:
     nap:
       from: "13:20"
       to: "15:00"
-      wakings:
     bedtime: "6:10pm"
 
   - date: "2024-07-04"
@@ -529,7 +468,6 @@ days:
     nap:
       from: "10:30"
       to: "12:50"
-      wakings:
     bedtime: "6:35pm"
 
   - date: "2024-07-05"
@@ -538,7 +476,6 @@ days:
     nap:
       from: "9:57"
       to: "11:32"
-      wakings:
     bedtime: "5:55pm"
 
   - date: "2024-07-06"
@@ -547,7 +484,6 @@ days:
     nap:
       from: "10:43"
       to: "13:20"
-      wakings:
     bedtime: "6:50pm"
 
   - date: "2024-07-07"
@@ -556,7 +492,6 @@ days:
     nap:
       from: "10:12"
       to: "11:45"
-      wakings:
     bedtime: "6:05pm"
 
   - date: "2024-07-08"
@@ -565,7 +500,6 @@ days:
     nap:
       from: "10:30"
       to: "12:00"
-      wakings:
     bedtime: "6:10pm"
 
   - date: "2024-07-09"
@@ -574,7 +508,6 @@ days:
     nap:
       from: "10:40"
       to: "13:00"
-      wakings:
     bedtime: "6:22pm"
 
   - date: "2024-07-10"
@@ -583,7 +516,6 @@ days:
     nap:
       from: "12:00"
       to: "14:00"
-      wakings:
     bedtime: "6:20pm"
 
   - date: "2024-07-11"
@@ -592,7 +524,6 @@ days:
     nap:
       from: "10:30"
       to: "13:09"
-      wakings:
     bedtime: "6:06pm"
 
   - date: "2024-07-12"
@@ -601,7 +532,6 @@ days:
     nap:
       from: "10:35"
       to: "12:03"
-      wakings:
     bedtime: "6:16pm"
 
   - date: "2024-07-13"
@@ -610,7 +540,6 @@ days:
     nap:
       from: "10:47"
       to: "14:00"
-      wakings:
     bedtime: "7:00pm"
 
   - date: "2024-07-14"
@@ -619,7 +548,6 @@ days:
     nap:
       from: "10:25"
       to: "12:37"
-      wakings:
     bedtime: "5:55pm"
 
   - date: "2024-07-15"
@@ -628,7 +556,6 @@ days:
     nap:
       from: "10:32"
       to: "12:10"
-      wakings:
     bedtime: "6:12pm"
 
   - date: "2024-07-16"
@@ -637,7 +564,6 @@ days:
     nap:
       from: "10:47"
       to: "12:15"
-      wakings:
     bedtime: "6:11pm"
 
   - date: "2024-07-17"
@@ -646,7 +572,6 @@ days:
     nap:
       from: ""
       to: ""
-      wakings:
     bedtime: "7:25pm"
 
   - date: "2024-07-18"
@@ -655,7 +580,6 @@ days:
     nap:
       from: ""
       to: ""
-      wakings:
     bedtime: "6:57pm"
 
   - date: "2024-07-19"
@@ -664,7 +588,6 @@ days:
     nap:
       from: ""
       to: ""
-      wakings:
     bedtime: "7:22pm"
 
   - date: "2024-07-20"
@@ -673,7 +596,6 @@ days:
     nap:
       from: "9:45"
       to: "12:28"
-      wakings:
     bedtime: "5:54pm"
 
   - date: "2024-07-21"
@@ -682,7 +604,6 @@ days:
     nap:
       from: "9:35"
       to: "12:05"
-      wakings:
     bedtime: "6:06pm"
 
   - date: "2024-07-25"
@@ -691,7 +612,6 @@ days:
     nap:
       from: "9:15"
       to: "10:40"
-      wakings:
     bedtime: "5:25pm"
 
   - date: "2024-07-26"
@@ -700,7 +620,6 @@ days:
     nap:
       from: "13:05"
       to: "14:55"
-      wakings:
     bedtime: "7:12pm"
 
   - date: "2024-07-27"
@@ -709,7 +628,6 @@ days:
     nap:
       from: "9:29"
       to: "12:00"
-      wakings:
     bedtime: "7:04pm"
 
   - date: "2024-07-28"
@@ -718,7 +636,6 @@ days:
     nap:
       from: "10:16"
       to: "11:55"
-      wakings:
     bedtime: "6:00pm"
 
   - date: "2024-07-29"
@@ -727,7 +644,6 @@ days:
     nap:
       from: "11:00"
       to: "12:50"
-      wakings:
     bedtime: "6:09pm"
 
   - date: "2024-07-30"
@@ -736,7 +652,6 @@ days:
     nap:
       from: "10:55"
       to: "12:50"
-      wakings:
     bedtime: "6:11pm"
 
   - date: "2024-07-31"
@@ -745,7 +660,6 @@ days:
     nap:
       from: "10:57"
       to: "12:38"
-      wakings:
     bedtime: "6:27pm"
 
   - date: "2024-08-01"
@@ -754,7 +668,6 @@ days:
     nap:
       from: "9:45"
       to: "11:26"
-      wakings:
     bedtime: "6:24pm"
 
   - date: "2024-08-02"
@@ -763,7 +676,6 @@ days:
     nap:
       from: "10:37"
       to: "12:04"
-      wakings:
     bedtime: "5:36pm"
 
   - date: "2024-08-03"
@@ -772,7 +684,6 @@ days:
     nap:
       from: "11:28"
       to: "13:46"
-      wakings:
     bedtime: "6:50pm"
 
   - date: "2024-08-04"
@@ -781,7 +692,6 @@ days:
     nap:
       from: "11:12"
       to: "13:04"
-      wakings:
     bedtime: "5:54pm"
 
   - date: "2024-08-05"
@@ -790,7 +700,6 @@ days:
     nap:
       from: "9:00"
       to: "10:20"
-      wakings:
     bedtime: "7:09pm"
 
   - date: "2024-08-06"
@@ -799,7 +708,6 @@ days:
     nap:
       from: "11:45"
       to: "13:50"
-      wakings:
     bedtime: "6:50pm"
 
   - date: "2024-08-07"
@@ -808,7 +716,6 @@ days:
     nap:
       from: "13:15"
       to: "15:25"
-      wakings:
     bedtime: "8:07pm"
 
   - date: "2024-08-08"
@@ -817,7 +724,6 @@ days:
     nap:
       from: "10:20"
       to: "11:41"
-      wakings:
     bedtime: "6:44pm"
 
   - date: "2024-08-09"
@@ -826,7 +732,6 @@ days:
     nap:
       from: "10:57"
       to: "12:34"
-      wakings:
     bedtime: "6:38pm"
 
   - date: "2024-08-10"
@@ -835,7 +740,6 @@ days:
     nap:
       from: "12:15"
       to: "13:45"
-      wakings:
     bedtime: "7:25pm"
 
   - date: "2024-08-11"
@@ -844,7 +748,6 @@ days:
     nap:
       from: "12:11"
       to: "14:03"
-      wakings:
     bedtime: "7:07pm"
 
   - date: "2024-08-12"
@@ -853,7 +756,6 @@ days:
     nap:
       from: ""
       to: ""
-      wakings:
     bedtime: "7:12pm"
 
   - date: "2024-08-13"
@@ -862,7 +764,6 @@ days:
     nap:
       from: ""
       to: ""
-      wakings:
     bedtime: "7:31pm"
 
   - date: "2024-08-15"
@@ -871,7 +772,6 @@ days:
     nap:
       from: "12:07"
       to: "14:12"
-      wakings:
     bedtime: "6:52pm"
 
   - date: "2024-08-16"
@@ -880,7 +780,6 @@ days:
     nap:
       from: "11:27"
       to: "14:20"
-      wakings:
     bedtime: "7:04pm"
 
   - date: "2024-08-17"
@@ -889,7 +788,6 @@ days:
     nap:
       from: "11:09"
       to: "13:35"
-      wakings:
     bedtime: "7:24pm"
 
   - date: "2024-08-18"
@@ -898,7 +796,6 @@ days:
     nap:
       from: "12:05"
       to: "14:26"
-      wakings:
     bedtime: "7:13pm"
 
   - date: "2024-08-19"
@@ -907,7 +804,6 @@ days:
     nap:
       from: "12:36"
       to: "15:00"
-      wakings:
     bedtime: "7:28pm"
 
   - date: "2024-08-20"
@@ -916,7 +812,6 @@ days:
     nap:
       from: "13:20"
       to: "15:00"
-      wakings:
     bedtime: "7:17pm"
 
   - date: "2024-08-21"
@@ -925,7 +820,6 @@ days:
     nap:
       from: "13:15"
       to: "15:20"
-      wakings:
     bedtime: "7:13pm"
 
   - date: "2024-08-22"
@@ -934,7 +828,6 @@ days:
     nap:
       from: "12:35"
       to: "14:28"
-      wakings:
     bedtime: "7:12pm"
 
   - date: "2024-08-23"
@@ -943,7 +836,6 @@ days:
     nap:
       from: "12:41"
       to: "14:20"
-      wakings:
     bedtime: "7:17pm"
 
   - date: "2024-08-24"
@@ -952,7 +844,6 @@ days:
     nap:
       from: "12:15"
       to: "14:15"
-      wakings:
     bedtime: "8:03pm"
 
   - date: "2024-08-25"
@@ -961,7 +852,6 @@ days:
     nap:
       from: "11:47"
       to: "14:15"
-      wakings:
     bedtime: "7:20pm"
 
   - date: "2024-08-26"
@@ -970,7 +860,6 @@ days:
     nap:
       from: "12:40"
       to: "15:15"
-      wakings:
     bedtime: "7:11pm"
 
   - date: "2024-08-27"
@@ -979,7 +868,6 @@ days:
     nap:
       from: "12:00"
       to: "14:45"
-      wakings:
     bedtime: "7:28pm"
 
   - date: "2024-08-28"
@@ -988,5 +876,4 @@ days:
     nap:
       from: "11:06"
       to: "13:38"
-      wakings:
     bedtime: "7:14pm"
