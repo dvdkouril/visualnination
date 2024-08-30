@@ -877,3 +877,11 @@ days:
       from: "11:06"
       to: "13:38"
     bedtime: "7:14pm"
+
+  - date: "2024-08-29"
+    wakeuptime: "5:58am"
+    wakings:
+    nap:
+      from: "11:43"
+      to: "13:58"
+    bedtime: "6:56pm"
