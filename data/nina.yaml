@@ -2,8 +2,8 @@ days:
   - date: "2024-04-30"
     wakeuptime: "5:30am"
     wakings:
-      - "3:26am": "gabi comforted"
-      - "4:45am": "had to go there a bunch of times"
+      - "3:26am"
+      - "4:45am"
     poops: 
       - "6:46am"
       - "5pm"
@@ -28,11 +28,6 @@ days:
       - "10am"
     nap:
       from: "10:30am"
-      notes:
-        - "crying after some minutes"
-        - "daddy check-in not helping (wants mommy: mamky? za ňou, tam)"
-        - "mommy check-in seems sucessful"
-        - "seems pretty well-rested after waking up"
       to: "12:45pm"
     bedtime: "6:50pm"
 
@@ -55,11 +50,11 @@ days:
   - date: "2024-05-05"
     wakeuptime: "5:15am"
     wakings:
-      - "9:35pm": "big crying, needs several checkins"
-      - "10:11pm": "again crying, comforted lying on her back, repeats her toy names: doggie, chameleon, mimi, panny"
-      - "10:34pm": "again crying"
-      - "10:47pm": "again, letting her cry"
-      - "11:02pm": "went in and comforted her on her back for a bit...since then I guess she slept"
+      - "9:35pm"
+      - "10:11pm"
+      - "10:34pm"
+      - "10:47pm"
+      - "11:02pm"
     nap:
       from: "10:10am"
       to: "11:55am"
@@ -68,7 +63,7 @@ days:
   - date: "2024-05-06"
     wakeuptime: "5:30am"
     wakings:
-      - "5:05am": "gabi comforted"
+      - "5:05am"
     nap:
       from: "12:05"
       to: "2:30pm"
@@ -87,12 +82,12 @@ days:
   - date: "2024-05-08"
     wakeuptime: "5:20am"
     wakings:
-      - "7:31pm": "gabi comforted, nina was constantly talking; but interestingly: no more crying and probably she's sleeping"
+      - "7:31pm"
     nap:
       from: "11:45am"
       to: "2:05pm"
       wakings:
-        - "1:30pm": "crying, but not happy, gabi comforted"
+        - "1:30pm"
     poops:
       - "morning"
       - "before nap"
@@ -118,7 +113,7 @@ days:
   - date: "2024-05-11"
     wakeuptime: "6:00am"
     wakings:
-      - "12:00am": ""
+      - "12:00am"
     nap:
       from: "11:55am"
       to: "14:15"
@@ -150,7 +145,7 @@ days:
   - date: "2024-05-14"
     wakeuptime: "5:50am"
     wakings:
-      - "6:52pm": "crying, gabi goes check in"
+      - "6:52pm"
     nap:
       from: "10:35am"
       to: "12:15pm"
@@ -163,7 +158,7 @@ days:
       from: "11:33am"
       to: "14:15"
       wakings:
-        - "1:20pm": "gabi comforted"
+        - "1:20pm"
     poops:
       - "morning"
     bedtime: "7:30pm"
@@ -200,8 +195,8 @@ days:
       from: "11:30"
       to: "14:00"
       wakings:
-        - "12:35pm": "crying, gabi comforted"
-        - "13:40": "crying, fell asleep on gabi"
+        - "12:35pm"
+        - "13:40"
     bedtime: "7:00pm"
 
   - date: "2024-05-20"
