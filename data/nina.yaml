@@ -885,3 +885,11 @@ days:
       from: "11:43"
       to: "13:58"
     bedtime: "6:56pm"
+
+  - date: "2024-08-30"
+    wakeuptime: "5:44am"
+    wakings:
+    nap:
+      from: "12:08"
+      to: "13:27"
+    bedtime: "7:26pm"
