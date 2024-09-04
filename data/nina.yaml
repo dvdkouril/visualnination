@@ -909,3 +909,20 @@ days:
       from: "12:03"
       to: "13:40"
     bedtime: "7:15pm"
+
+  - date: "2024-09-02"
+    wakeuptime: "6:10am"
+    wakings:
+    nap:
+      from: "11:55"
+      to: "13:58"
+    bedtime: "8:00pm"
+
+  - date: "2024-09-03"
+    wakeuptime: "6:10am"
+    wakings:
+      - "10:07pm"
+    nap:
+      from: "12:04"
+      to: "14:54"
+    bedtime: "7:27pm"
