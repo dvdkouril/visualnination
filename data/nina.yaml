@@ -926,3 +926,11 @@ days:
       from: "12:04"
       to: "14:54"
     bedtime: "7:27pm"
+
+  - date: "2024-09-04"
+    wakeuptime: "6:55am"
+    wakings:
+    nap:
+      from: "13:15"
+      to: "15:28"
+    bedtime: "7:44pm"
