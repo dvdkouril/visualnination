@@ -1331,3 +1331,49 @@ days:
       from: "12:43"
       to: "15:45"
     bedtime: "7:57pm"
+
+  - date: "2024-10-18"
+    wakeuptime: "6:17am"
+    wakings:
+      - "3:59"
+      - "12:01"
+      - "12:12"
+      - "13:08"
+    nap:
+      from: "11:55"
+      to: "15:05"
+    bedtime: "7:34pm"
+
+  - date: "2024-10-19"
+    wakeuptime: "6:45am"
+    wakings:
+      - "12:55"
+      - "13:00"
+      - "13:10"
+      - "13:58"
+    nap:
+      from: "12:48"
+      to: "14:36"
+    bedtime: "7:18pm"
+
+  - date: "2024-10-20"
+    wakeuptime: "7:12am"
+    wakings:
+      - "12:30"
+      - "12:50"
+      - "12:59"
+    nap:
+      from: "12:24"
+      to: "14:21"
+    bedtime: "7:14pm"
+
+  - date: "2024-10-21"
+    wakeuptime: "6:59am"
+    wakings:
+      - "12:59"
+      - "13:39"
+      - "13:48"
+    nap:
+      from: "12:52"
+      to: "14:40"
+    bedtime: "7:18pm"
