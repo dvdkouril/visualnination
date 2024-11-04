@@ -1500,3 +1500,11 @@ days:
       to: "14:50"
     wakings:
       - "14:04"
+
+  - date: "2024-11-03"
+    wakeuptime: "6:09am"
+    bedtime: "7:26pm"
+    nap:
+      from: "12:41"
+      to: "14:34"
+    wakings:
