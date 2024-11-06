@@ -1508,3 +1508,24 @@ days:
       from: "12:41"
       to: "14:34"
     wakings:
+
+  - date: "2024-11-04"
+    wakeuptime: "6:10am"
+    bedtime: "7:28pm"
+    nap:
+      from: "13:05"
+      to: "15:35"
+    wakings:
+      - "0:45"
+      - "13:20"
+      - "15:00"
+
+  - date: "2024-11-05"
+    wakeuptime: "5:43am"
+    bedtime: "6:53pm"
+    nap:
+      from: "11:37"
+      to: "13:59"
+    wakings:
+      - "11:50"
+      - "12:35"
