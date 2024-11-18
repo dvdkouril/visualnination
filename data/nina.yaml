@@ -1529,3 +1529,115 @@ days:
     wakings:
       - "11:50"
       - "12:35"
+
+  - date: "2024-11-06"
+    wakeuptime: "5:25am"
+    bedtime: "6:45pm"
+    nap:
+      from: "11:34"
+      to: "14:00"
+    wakings:
+      - "13:14"
+
+  - date: "2024-11-07"
+    wakeuptime: "4:56am"
+    bedtime: "7:05pm"
+    nap:
+      from: "11:48"
+      to: "13:54"
+    wakings:
+      - "4:00"
+      - "4:25"
+      - "12:48"
+
+  - date: "2024-11-08"
+    wakeuptime: "5:18am"
+    bedtime: "7:07pm"
+    nap:
+      from: "11:38"
+      to: "12:50"
+    wakings:
+      - "12:26"
+
+  - date: "2024-11-09"
+    wakeuptime: "6:54am"
+    bedtime: "7:10pm"
+    nap:
+      from: "12:00"
+      to: "13:29"
+    wakings:
+
+  - date: "2024-11-10"
+    wakeuptime: "5:55am"
+    bedtime: "7:03pm"
+    nap:
+      from: "11:55"
+      to: "13:30"
+    wakings:
+
+  - date: "2024-11-11"
+    wakeuptime: "5:25am"
+    bedtime: "7:28pm"
+    nap:
+      from: "12:09"
+      to: "14:30"
+    wakings:
+      - "5:00"
+      - "14:08"
+
+  - date: "2024-11-12"
+    wakeuptime: "7:00am"
+    bedtime: "6:48pm"
+    nap:
+      from: "10:45"
+      to: "11:30"
+    wakings:
+      - "5:25"
+
+  - date: "2024-11-13"
+    wakeuptime: "7:20am"
+    bedtime: "7:00pm"
+    nap:
+      from: "12:56"
+      to: "14:16"
+    wakings:
+      - "5:15"
+      - "20:20"
+
+  - date: "2024-11-14"
+    wakeuptime: "7:02am"
+    bedtime: "7:23pm"
+    nap:
+      from: "12:12"
+      to: "14:25"
+    wakings:
+      - "12:55"
+      - "13:57"
+
+  - date: "2024-11-15"
+    wakeuptime: "6:30am"
+    bedtime: "6:56pm"
+    nap:
+      from: "12:15"
+      to: "14:13"
+    wakings:
+      - "12:20"
+
+  - date: "2024-11-16"
+    wakeuptime: "6:00am"
+    bedtime: "6:59pm"
+    nap:
+      from: "12:00"
+      to: "13:20"
+    wakings:
+      - "5:45am"
+
+  - date: "2024-11-17"
+    wakeuptime: "6:05am"
+    bedtime: "7:28pm"
+    nap:
+      from: "12:33"
+      to: "14:07"
+    wakings:
+      - "5:45am"
+      - "13:37"
