@@ -1929,3 +1929,40 @@ days:
       - "20:30"
       - "12:55"
       - "14:11"
+
+  - date: "2024-12-17"
+    wakeuptime: "6:06am"
+    bedtime: "7:19pm"
+    nap:
+      from: "12:13"
+      to: "14:44"
+    wakings:
+
+  - date: "2024-12-18"
+    wakeuptime: "7:00am"
+    bedtime: "7:24pm"
+    nap:
+      from: "12:25"
+      to: "15:05"
+    wakings:
+      - "12:47"
+      - "14:04"
+
+  - date: "2024-12-19"
+    wakeuptime: "6:30am"
+    bedtime: "7:00pm"
+    nap:
+      from: "11:59"
+      to: "13:34"
+    wakings:
+      - "13:21"
+
+  - date: "2024-12-20"
+    wakeuptime: "6:30am"
+    bedtime: "7:09pm"
+    nap:
+      from: "12:16"
+      to: "14:20"
+    wakings:
+      - "13:50"
+      - "19:23"
