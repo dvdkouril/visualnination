@@ -1966,3 +1966,222 @@ days:
     wakings:
       - "13:50"
       - "19:23"
+
+  - date: "2024-12-21"
+    wakeuptime: "6:19am"
+    bedtime: "7:20pm"
+    nap:
+      from: "11:48"
+      to: "14:04"
+    wakings:
+      - "11:50"
+      - "11:53"
+
+  - date: "2024-12-22"
+    wakeuptime: "6:25am"
+    bedtime: "7:32pm"
+    nap:
+      from: "11:57"
+      to: "14:16"
+    wakings:
+      - "13:11"
+      - "13:41"
+
+  - date: "2024-12-23"
+    wakeuptime: "7:00am"
+    bedtime: "8:12pm"
+    nap:
+      from: "13:19"
+      to: "15:46"
+    wakings:
+
+  - date: "2024-12-24"
+    wakeuptime: "6:50am"
+    bedtime: "7:28pm"
+    nap:
+      from: "12:29"
+      to: "15:05"
+    wakings:
+      - "14:01"
+      - "19:39"
+      - "20:12"
+      - "20:27"
+      - "20:40"
+
+  - date: "2024-12-25"
+    wakeuptime: "6:25am"
+    bedtime: "7:04pm"
+    nap:
+      from: "12:34"
+      to: "14:43"
+    wakings:
+      - "12:41"
+      - "13:45"
+      - "20:17"
+
+  - date: "2024-12-26"
+    wakeuptime: "7:05am"
+    bedtime: "7:20pm"
+    nap:
+      from: "12:05"
+      to: "13:50"
+    wakings:
+      - "12:12"
+      - "13:46"
+
+  - date: "2024-12-27"
+    wakeuptime: "6:35am"
+    bedtime: "6:52pm"
+    nap:
+      from: "12:44"
+      to: "14:19"
+    wakings:
+      - "12:54"
+
+  - date: "2024-12-28"
+    wakeuptime: "6:40am"
+    bedtime: "7:03pm"
+    nap:
+      from: "12:12"
+      to: "13:44"
+    wakings:
+      - "19:32"
+
+  - date: "2024-12-29"
+    wakeuptime: "6:20am"
+    bedtime: "6:56pm"
+    nap:
+      from: "12:15"
+      to: "14:36"
+    wakings:
+      - "12:24"
+      - "19:17"
+
+  - date: "2024-12-30"
+    wakeuptime: "5:00am"
+    bedtime: "7:09pm"
+    nap:
+      from: "11:01"
+      to: "14:05"
+    wakings:
+      - "11:09"
+      - "11:14"
+      - "11:20"
+      - "11:35"
+      - "12:44"
+      - "19:55"
+      - "21:52"
+
+  - date: "2024-12-31"
+    wakeuptime: "6:00am"
+    bedtime: "8:18pm"
+    nap:
+      from: "12:20"
+      to: "15:03"
+    wakings:
+      - "4:00"
+
+  - date: "2025-01-01"
+    wakeuptime: "6:40am"
+    bedtime: "7:36pm"
+    nap:
+      from: "12:03"
+      to: "13:43"
+    wakings:
+
+  - date: "2025-01-02"
+    wakeuptime: "7:00am"
+    bedtime: "8:05pm"
+    nap:
+      from: "12:36"
+      to: "15:30"
+    wakings:
+      - "12:44"
+      - "14:17"
+
+  - date: "2025-01-03"
+    wakeuptime: "6:55am"
+    bedtime: "6:30pm"
+    nap:
+      from: "12:50"
+      to: "14:05"
+    wakings:
+
+  - date: "2025-01-04"
+    wakeuptime: "7:20am"
+    bedtime: "7:30pm"
+    nap:
+      from: "12:40"
+      to: "14:44"
+    wakings:
+      - "12:58"
+      - "13:02"
+      - "13:16"
+        
+  - date: "2025-01-05"
+    wakeuptime: "8:00am"
+    bedtime: "8:21pm"
+    nap:
+      from: "13:11"
+      to: "16:00"
+    wakings:
+      - "3:00"
+      - "13:23"
+      - "13:32"
+
+  - date: "2025-01-06"
+    wakeuptime: "6:40am"
+    bedtime: "6:52pm"
+    nap:
+      from: "12:50"
+      to: "15:15"
+    wakings:
+      - "13:00"
+
+  - date: "2025-01-07"
+    wakeuptime: "6:00am"
+    bedtime: "7:05pm"
+    nap:
+      from: "11:53"
+      to: "13:37"
+    wakings:
+
+  - date: "2025-01-08"
+    wakeuptime: "6:45am"
+    bedtime: "7:20pm"
+    nap:
+      from: "12:43"
+      to: "14:27"
+    wakings:
+      - "12:54"
+
+  - date: "2025-01-09"
+    wakeuptime: "6:15am"
+    bedtime: "7:20pm"
+    nap:
+      from: "12:07"
+      to: "14:00"
+    wakings:
+      - "12:10"
+      - "12:25"
+      - "13:10"
+
+  - date: "2025-01-10"
+    wakeuptime: "6:50am"
+    bedtime: "7:20pm"
+    nap:
+      from: "12:12"
+      to: "14:25"
+    wakings:
+      - "12:16"
+      - "14:02"
+
+  - date: "2025-01-11"
+    wakeuptime: "6:00am"
+    bedtime: "7:30pm"
+    nap:
+      from: "12:19"
+      to: "14:23"
+    wakings:
+      - "13:03"
+      - "13:38"
