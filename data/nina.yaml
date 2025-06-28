@@ -3149,6 +3149,7 @@ days:
   - date: "2025-05-04"
     wakeuptime: "6:20am"
     bedtime: "6:19pm"
+    wakings:
 
   - date: "2025-05-05"
     wakeuptime: "5:15am"
