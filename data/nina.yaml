@@ -3003,11 +3003,3 @@ days:
       from: "11:57"
       to: "13:21"
     wakings:
-
-  - date: "2025-04-15"
-    wakeuptime: "6:00am"
-    bedtime: "7:21pm"
-    nap:
-      from: "11:57"
-      to: "13:21"
-    wakings:
